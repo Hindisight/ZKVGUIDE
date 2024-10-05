@@ -20,6 +20,23 @@ Setting Up a Wallet and Connecting to Testnet-
     - Copy your ZKverify Addresss and submit 
 
 Proof Submission Tutorial-
+<div>
+    <pre id="codeSnippet">
+    def hello_world():
+        print("Hello, World!")
+    </pre>
+    <button onclick="copyToClipboard()">Copy</button>
+</div>
+
+<script>
+    function copyToClipboard() {
+        var code = document.getElementById("codeSnippet").innerText;
+        navigator.clipboard.writeText(code).then(function() {
+            alert("Copied to clipboard!");
+        });
+    }
+</script>
+
 7th - Clone GIT repository 
 {git clone https://github.com/0xmetaschool/zkverify-proofverification.git
 
