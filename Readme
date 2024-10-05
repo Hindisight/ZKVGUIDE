@@ -1,7 +1,4 @@
-echo "# ZKVGUIDE" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Hindisight/ZKVGUIDE.git
-git push -u origin main
+- Watch video https://youtu.be/GIsrkIabroU
+- ZKrollups faces challenges like data availability issues, proof verification costs, and potential centralization risks
+- Reduce Cost By Off-chain Computation , Batching Transactions , Reduced Data Storage , Fewer Validation Requirements & Scalability
+- Zero-Knowledge Proofs , Scalability , Privacy , Interoperability & User Experience
