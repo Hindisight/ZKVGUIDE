@@ -36,6 +36,7 @@ Proof Submission Tutorial-
         });
     }
 </script>
+```
 
 7th - Clone GIT repository 
 {git clone https://github.com/0xmetaschool/zkverify-proofverification.git
