@@ -20,7 +20,7 @@ Setting Up a Wallet and Connecting to Testnet-
     - Copy your ZKverify Addresss and submit 
 
 Proof Submission Tutorial-
-<div>
+```<div>
     <pre id="codeSnippet">
     def hello_world():
         print("Hello, World!")
