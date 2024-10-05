@@ -22,5 +22,29 @@ Setting Up a Wallet and Connecting to Testnet-
 Proof Submission Tutorial-
 7th - Get 
 
+1 { 
+git clone https://github.com/0xmetaschool/zkverify-proofverification.git
 
+cd zkverify-proofverification
+}
+
+2 {
+npm install -g snarkjs@latest
+}
+
+3 {
+curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+}
+
+4 {
+git clone https://github.com/iden3/circom.git
+}
+
+5 
+{
+sudo chmod +x circuit_setup.sh
+
+./circuit_setup.sh
+
+}
 
