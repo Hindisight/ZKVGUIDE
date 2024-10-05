@@ -8,6 +8,8 @@ Quiz ANS:-
 4th - Zero-Knowledge Proofs , Scalability , Privacy , Interoperability & User Experience
 
 Technical Section Start:- 
+Setting Up a Wallet and Connecting to Testnet-
+
 5th  Download the Talisman Extension https://www.talisman.xyz/
     - Create New Polkadot Wallet and Save the Key-Phrase
     - Open Talisman Extension and click on Settings
@@ -16,3 +18,10 @@ Technical Section Start:-
 6th Get The Testnet Faucets
     - Go to https://www.zkay.io/faucet and connect Talisman Extension then claim faucet
     - Copy your ZKverify Addresss and submit 
+
+Proof Submission Tutorial-
+7th - Clone GIT repository 
+{git clone https://github.com/0xmetaschool/zkverify-proofverification.git
+
+cd zkverify-proofverification
+}
