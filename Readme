@@ -20,7 +20,7 @@ Setting Up a Wallet and Connecting to Testnet-
     - Copy your ZKverify Addresss and submit 
 
 ## Proof Submission Tutorial-
-```<div>
+```yaml<div>
     <pre id="codeSnippet">
     def hello_world():
         print("Hello, World!")
@@ -36,7 +36,7 @@ Setting Up a Wallet and Connecting to Testnet-
         });
     }
 </script>
-```
+```yaml
 
 7th - Clone GIT repository 
 {git clone https://github.com/0xmetaschool/zkverify-proofverification.git
