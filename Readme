@@ -19,27 +19,8 @@ Setting Up a Wallet and Connecting to Testnet-
     - Go to https://www.zkay.io/faucet and connect Talisman Extension then claim faucet
     - Copy your ZKverify Addresss and submit 
 
-## Proof Submission Tutorial-
-```yaml<div>
-    <pre id="codeSnippet">
-    def hello_world():
-        print("Hello, World!")
-    </pre>
-    <button onclick="copyToClipboard()">Copy</button>
-</div>
+Proof Submission Tutorial-
+7th - Get 
 
-<script>
-    function copyToClipboard() {
-        var code = document.getElementById("codeSnippet").innerText;
-        navigator.clipboard.writeText(code).then(function() {
-            alert("Copied to clipboard!");
-        });
-    }
-</script>
-```yaml
 
-7th - Clone GIT repository 
-{git clone https://github.com/0xmetaschool/zkverify-proofverification.git
 
-cd zkverify-proofverification
-}
