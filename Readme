@@ -19,7 +19,7 @@ Setting Up a Wallet and Connecting to Testnet-
     - Go to https://www.zkay.io/faucet and connect Talisman Extension then claim faucet
     - Copy your ZKverify Addresss and submit 
 
-Proof Submission Tutorial-
+## Proof Submission Tutorial-
 ```<div>
     <pre id="codeSnippet">
     def hello_world():
