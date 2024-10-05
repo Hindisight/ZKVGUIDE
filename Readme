@@ -1,4 +1,14 @@
-- Watch video https://youtu.be/GIsrkIabroU
-- ZKrollups faces challenges like data availability issues, proof verification costs, and potential centralization risks
-- Reduce Cost By Off-chain Computation , Batching Transactions , Reduced Data Storage , Fewer Validation Requirements & Scalability
-- Zero-Knowledge Proofs , Scalability , Privacy , Interoperability & User Experience
+Quiz ANS:-
+1st - Watch video https://youtu.be/GIsrkIabroU
+2nd - ZKrollups faces challenges like data availability issues, proof verification costs, and potential centralization risks
+3rd - Reduce Cost By Off-chain Computation , Batching Transactions , Reduced Data Storage , Fewer Validation Requirements & Scalability
+4th - Zero-Knowledge Proofs , Scalability , Privacy , Interoperability & User Experience
+
+Technical Section Start:- 
+5th  Download the Talisman Extension https://www.talisman.xyz/
+    - Create New Polkadot Wallet and Save the Key-Phrase
+    - Open Talisman Extension and click on Settings
+    - Open Network Section and click Enable Testnets
+
+6th Get The Testnet Faucets
+    - Go to https://www.zkay.io/faucet and connect Talisman Extension
