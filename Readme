@@ -47,4 +47,6 @@ sudo chmod +x circuit_setup.sh
 ./circuit_setup.sh
 
 }
-
+node snarkjs2zkv convert-proof /workspaces/ZKVGUIDE/zkverify-proofverification/proof.json -o proof_zkv.json
+node snarkjs2zkv convert-vk /workspaces/ZKVGUIDE/zkverify-proofverification/verification_key.json -o verification_key_zkv.json
+node snarkjs2zkv convert-public /workspaces/ZKVGUIDE/zkverify-proofverification/public.json -o public_zkv.json -c bn128
